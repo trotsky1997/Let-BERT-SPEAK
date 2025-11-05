@@ -2,6 +2,7 @@
 Training-Free Block Diffusion Language Model with BERT
 
 Code: https://github.com/trotsky1997/Let-BERT-SPEAK/blob/main/generate.py
+
 Blog: https://trotsky1997.notion.site/Let-BERT-SPEAK-Training-Free-Block-Diffusion-Language-Model-with-BERT-2a2bbfcc4cdf802aa67dcba6a02a0c9f
 
 ## 3 Method
