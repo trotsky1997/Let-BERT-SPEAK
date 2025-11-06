@@ -10,6 +10,8 @@ Blog: https://trotsky1997.notion.site/Let-BERT-SPEAK-Training-Free-Block-Diffusi
 
 ## Instruction Following / Chat
 
+<img width="1647" height="575" alt="image" src="https://github.com/user-attachments/assets/b259cf05-ed38-426a-87ca-ba095a8ac28e" />
+
 
 
 
