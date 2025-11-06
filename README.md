@@ -5,6 +5,9 @@ Code: https://github.com/trotsky1997/Let-BERT-SPEAK/blob/main/generate.py
 
 Blog: https://trotsky1997.notion.site/Let-BERT-SPEAK-Training-Free-Block-Diffusion-Language-Model-with-BERT-2a2bbfcc4cdf802aa67dcba6a02a0c9f
 
+![b2834a4a02aeebe47dbb74f79a5cc008](https://github.com/user-attachments/assets/da9e4402-4808-460d-84cd-c827aaf25582)
+
+
 ## 3 Method
 
 ### 3.1 Overview
